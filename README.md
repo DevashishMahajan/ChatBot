@@ -16,3 +16,14 @@ Building a ChatBot using NLTK, wordnet and TF-IDF vectorizer.
   Inputs from user will be compared to the set of frequently asked questions (FAQ). Most relevent answer will be selected using a cosine similarity.
 All the frequently asked questions and answers are present in a word file. More questions and answers can be added to improve the performance of ChatBot.
 ChatBot will begine conversation with greetings like "hi", "hello". 
+
+Frequently asked questions (FAQs) list:
+1) What is machine learning?
+2) How can i get job as machine learning engineer?
+3) How can i become a data scientist?
+4) what is role of a data scientist?
+5) How much salary a data scientist gets ?
+6) What is unique part of this training ?
+7) What is the fees of this training ?
+8) How can i pay the fees of this training?
+9) What is method of delivery of this training?
